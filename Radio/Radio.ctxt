@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Radio
+comment1.params=
+comment1.target=Radio()
+comment10.params=volumen
+comment10.target=void\ setVolumen(int)
+comment11.params=
+comment11.target=int\ getVolumen()
+comment2.params=estado
+comment2.target=void\ setEstado(boolean)
+comment3.params=
+comment3.target=boolean\ getEstado()
+comment4.params=frecuencia
+comment4.target=void\ setFrecuencia(boolean)
+comment5.params=
+comment5.target=boolean\ getFrecuencia()
+comment6.params=estacion_actualAM
+comment6.target=void\ setEstacionActualAM(double)
+comment7.params=
+comment7.target=double\ getEstacionActualAM()
+comment8.params=estacion_actualFM
+comment8.target=void\ setEstacionActualFM(double)
+comment9.params=
+comment9.target=double\ getEstacionActualFM()
+numComments=12

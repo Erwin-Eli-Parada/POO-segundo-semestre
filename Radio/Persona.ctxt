@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=r
+comment1.target=void\ CambiarFrecuencia(Radio)
+comment2.params=r
+comment2.target=void\ ApagarEncenderRadio(Radio)
+comment3.params=r
+comment3.target=void\ AvanzarEstacion(Radio)
+comment4.params=r
+comment4.target=void\ RetrocederEstacion(Radio)
+comment5.params=r
+comment5.target=void\ SubirVolumen(Radio)
+comment6.params=r
+comment6.target=void\ BajarVolumen(Radio)
+numComments=7
