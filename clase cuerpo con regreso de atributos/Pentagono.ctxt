@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Pentagono
+comment1.params=punto\ medidaLado
+comment1.target=Pentagono(Punto,\ double)
+comment2.params=lado
+comment2.target=void\ setLado(double)
+comment2.text=\r\n\ Se\ omiti\u00F3\ el\ uso\ del\ <else>\ en\ el\ set\ de\ los\ lados,\ puesto\ que\ por\ \r\n\ defecto\ java\ cosidera\ una\ variable\ sin\ inicializar\ como\ 0.\ Y\ si\ no\ \r\n\ se\ cumple\ la\ condicion\ ladoX\ >\ 0,\ pasar\u00E1\ a\ tener\ el\ valor\ por\ defecto\ \r\n\ de\ java,\ es\ decir\ 0,\ como\ se\ dijo\ anteriormente.\r\n
+comment3.params=
+comment3.target=double\ getLado()
+comment4.params=
+comment4.target=double\ calcAngulo()
+comment4.text=Para\ calcular\ el\ apotema\ del\ pentagono.
+comment5.params=
+comment5.target=void\ setApotema()
+comment5.text=\r\n\ El\ apotema\ depender\u00E1\ de\ la\ medida\ de\ los\ lados\ que\ tenga\ el\ pentagono,\ \r\n\ por\ lo\ que\ no\ tendr\u00EDa\ sentido\ que\ el\ usuario\ establezca\ el\ apotema.\ \r\n\ Usando\ la\ f\u00F3rmula\ para\ un\ apotema\ de\ un\ pol\u00EDgono\ regular.\r\n
+comment6.params=
+comment6.target=double\ getApotema()
+comment7.params=
+comment7.target=double\ calcArea()
+comment8.params=
+comment8.target=double\ calcPerimetro()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

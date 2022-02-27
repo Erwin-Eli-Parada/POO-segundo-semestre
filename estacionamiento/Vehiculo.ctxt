@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vehiculo
+comment0.text=\r\n\ Abstract\ class\ Vehiculo\ -\ write\ a\ description\ of\ the\ class\ here\r\n\ \r\n\ @author\:\ \r\n\ Date\:\ \r\n
+comment1.params=marca\ horas
+comment1.target=Vehiculo(java.lang.String,\ int)
+comment2.params=marca
+comment2.target=void\ setmarca(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getmarca()
+comment4.params=horas
+comment4.target=void\ sethoras(int)
+comment5.params=
+comment5.target=int\ gethoras()
+comment6.params=
+comment6.target=double\ calccuota()
+numComments=7

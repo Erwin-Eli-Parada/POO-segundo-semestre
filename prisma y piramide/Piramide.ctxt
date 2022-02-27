@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Piramide
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Piramide\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=base\ altura
+comment1.target=Piramide(Poligono,\ double)
+comment2.params=base
+comment2.target=void\ setbase(Poligono)
+comment3.params=
+comment3.target=Poligono\ getbase()
+comment4.params=altura
+comment4.target=void\ setaltura(double)
+comment5.params=
+comment5.target=double\ getaltura()
+comment6.params=
+comment6.target=double\ caclvol()
+numComments=7

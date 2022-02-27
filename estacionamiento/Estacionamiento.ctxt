@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Estacionamiento
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Estacionamiento\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=max
+comment1.target=Estacionamiento(int)
+comment2.params=
+comment2.target=boolean\ lleno()
+comment3.params=
+comment3.target=boolean\ vacio()
+comment4.params=v
+comment4.target=boolean\ agregar(Vehiculo)
+numComments=5

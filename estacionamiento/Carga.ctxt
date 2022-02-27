@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Carga
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Carga\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=carga\ marca\ horas
+comment1.target=Carga(double,\ java.lang.String,\ int)
+comment2.params=carga
+comment2.target=void\ setcarga(double)
+comment3.params=
+comment3.target=double\ getcarga()
+comment4.params=
+comment4.target=double\ calccuota()
+numComments=5

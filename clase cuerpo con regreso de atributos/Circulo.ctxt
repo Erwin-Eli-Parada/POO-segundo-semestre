@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circulo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Circulo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=punto\ radio
+comment1.target=Circulo(Punto,\ double)
+comment2.params=radio
+comment2.target=void\ setradio(double)
+comment3.params=
+comment3.target=double\ getradio()
+comment4.params=
+comment4.target=double\ calcPerimetro()
+comment5.params=
+comment5.target=double\ calcArea()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
