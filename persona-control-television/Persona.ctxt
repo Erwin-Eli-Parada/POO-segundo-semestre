@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Persona\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre
+comment1.target=Persona(java.lang.String)
+comment2.params=t\ c
+comment2.target=void\ aumentarcanal(Televisor,\ Control)
+comment3.params=t\ c
+comment3.target=void\ disminuircanal(Televisor,\ Control)
+comment4.params=t\ c
+comment4.target=void\ subirvolumen(Televisor,\ Control)
+comment5.params=t\ c
+comment5.target=void\ bajarvolumen(Televisor,\ Control)
+comment6.params=t\ c
+comment6.target=void\ apagarencender(Televisor,\ Control)
+comment7.params=c
+comment7.target=void\ ponerquitarbaterias(Control)
+comment8.params=nombre
+comment8.target=void\ setnombre(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getnombre()
+numComments=10

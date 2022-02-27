@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=nombre
+comment1.target=Persona(java.lang.String)
+comment2.params=
+comment2.target=void\ setNombre()
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p\ Ll\ c
+comment4.target=void\ abrirpuerta(Puerta,\ Llave,\ Cerrojo)
+numComments=5

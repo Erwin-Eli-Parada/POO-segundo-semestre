@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Televisor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Televisor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=canalmax\ volumenmax
+comment1.target=Televisor(int,\ int)
+comment10.params=estado
+comment10.target=void\ setestado(boolean)
+comment11.params=
+comment11.target=boolean\ getestado()
+comment2.params=canal
+comment2.target=void\ setcanal(int)
+comment3.params=
+comment3.target=int\ getcanal()
+comment4.params=canalmax
+comment4.target=void\ setcanalmax(int)
+comment5.params=
+comment5.target=int\ getcanalmax()
+comment6.params=volumen
+comment6.target=void\ setvolumen(int)
+comment7.params=
+comment7.target=int\ getvolumen()
+comment8.params=volumenmax
+comment8.target=void\ volumenmax(int)
+comment9.params=
+comment9.target=int\ getvolumenmax()
+numComments=12

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Puerta
+comment1.params=cerr
+comment1.target=Puerta(Cerrojo)
+comment2.params=estado
+comment2.target=void\ setestado(boolean)
+comment3.params=
+comment3.target=boolean\ getestado()
+comment4.params=cerr
+comment4.target=void\ setestadocerrojo(Cerrojo)
+comment5.params=
+comment5.target=Cerrojo\ getestadocerrojo()
+numComments=6
