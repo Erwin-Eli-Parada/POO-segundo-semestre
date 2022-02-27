@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=claveJugador\ nombre\ edad\ horasentrenadas
+comment1.target=Jugador(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=claveJugador
+comment2.target=void\ setclave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getclave()
+comment4.params=horasentrenadas
+comment4.target=void\ sethorasentrenadas(int)
+comment5.params=
+comment5.target=int\ gethorasentrenadas()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

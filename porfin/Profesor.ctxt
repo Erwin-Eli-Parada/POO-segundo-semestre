@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Profesor
+comment1.params=g
+comment1.target=void\ reprobadosunidad1(Grupos)
+comment2.params=g
+comment2.target=void\ reprobadosunidad2(Grupos)
+comment3.params=g
+comment3.target=void\ reprobadosunidad3(Grupos)
+comment4.params=g
+comment4.target=void\ reprobadoscurso(Grupos)
+comment5.params=g
+comment5.target=void\ reprobadosunaunidad(Grupos)
+numComments=6

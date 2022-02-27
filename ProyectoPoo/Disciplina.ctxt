@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=claveDisciplina
+comment1.target=Disciplina(java.lang.String)
+comment2.params=claveDisciplina
+comment2.target=void\ setclave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getclave()
+numComments=4

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Vista
+comment1.params=s
+comment1.target=int\ leerentero(java.lang.String)
+comment10.params=arev
+comment10.target=Evento\ leerevento(ArregloEvento)
+comment11.params=
+comment11.target=Disciplina\ leerdisciplina()
+comment12.params=arj\ are\ arev\ ard\ arp
+comment12.target=Participacion\ leerparticipacion(ArregloJugador,\ ArregloEntrenador,\ ArregloEvento,\ ArregloDisciplina,\ ArregloParticipaciones)
+comment2.params=s\ x
+comment2.target=int\ leerentero2(java.lang.String,\ int)
+comment3.params=s
+comment3.target=java.lang.String\ leersololetras(java.lang.String)
+comment4.params=s
+comment4.target=double\ leerdobles(java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String\ leerclave(java.lang.String)
+comment6.params=k
+comment6.target=void\ imprimirentero(int)
+comment7.params=s
+comment7.target=void\ imprimir(java.lang.String)
+comment8.params=are
+comment8.target=Entrenador\ leerentrenador(ArregloEntrenador)
+comment9.params=arj
+comment9.target=Jugador\ leerjugador(ArregloJugador)
+numComments=13

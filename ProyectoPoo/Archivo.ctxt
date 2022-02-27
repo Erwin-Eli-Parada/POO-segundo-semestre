@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Archivo
+comment1.params=are\ arj\ ard\ arev\ arp
+comment1.target=void\ llenarArEntrenador(ArregloEntrenador,\ ArregloJugador,\ ArregloDisciplina,\ ArregloEvento,\ ArregloParticipaciones)
+comment10.params=arp
+comment10.target=void\ llenarArregloParticipacion(ArregloParticipaciones)
+comment2.params=are\ arj\ ard\ arev\ arp
+comment2.target=void\ llenarArregloEntrenador(ArregloEntrenador,\ ArregloJugador,\ ArregloDisciplina,\ ArregloEvento,\ ArregloParticipaciones)
+comment3.params=arj
+comment3.target=void\ llenarArJugador(ArregloJugador)
+comment4.params=arj
+comment4.target=void\ llenarArregloJugador(ArregloJugador)
+comment5.params=ard
+comment5.target=void\ llenarArDisciplina(ArregloDisciplina)
+comment6.params=ard
+comment6.target=void\ llenarArregloDisciplina(ArregloDisciplina)
+comment7.params=arev
+comment7.target=void\ llenarArEvento(ArregloEvento)
+comment8.params=arev
+comment8.target=void\ llenarArregloEvento(ArregloEvento)
+comment9.params=arp
+comment9.target=void\ llenarArParticipacion(ArregloParticipaciones)
+numComments=11

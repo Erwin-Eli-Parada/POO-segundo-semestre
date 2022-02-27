@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Participacion
+comment1.params=claveEvento\ claveEntrenador\ claveJugador\ claveDisciplina\ logro
+comment1.target=Participacion(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=logro
+comment10.target=void\ setlogro(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getlogro()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=claveEvento
+comment2.target=void\ setclaveEvento(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getclaveEvento()
+comment4.params=claveJugador
+comment4.target=void\ setclaveJugador(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getclaveJugador()
+comment6.params=claveEntrenador
+comment6.target=void\ setclaveEntrenador(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getclaveEntrenador()
+comment8.params=claveDisciplina
+comment8.target=void\ setclaveDisciplina(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getclaveDisciplina()
+numComments=13

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=VISTA
+comment1.params=
+comment1.target=int\ leernumeros()
+comment2.params=
+comment2.target=float\ leerflotantes()
+comment3.params=
+comment3.target=double\ leerdobles()
+comment4.params=
+comment4.target=char\ leercaracteres()
+comment5.params=
+comment5.target=java.lang.String\ leersololetras()
+comment6.params=
+comment6.target=java.lang.String\ leerletrasynum()
+comment7.params=
+comment7.target=java.lang.String\ leerletrasysimbolos()
+numComments=8

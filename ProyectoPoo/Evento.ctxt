@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Evento
+comment1.params=claveEvento\ nombre
+comment1.target=Evento(java.lang.String,\ java.lang.String)
+comment10.params=tercero
+comment10.target=void\ settercero(boolean)
+comment11.params=
+comment11.target=boolean\ gettercero()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=claveEvento
+comment2.target=void\ setclave(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getclave()
+comment4.params=nombre
+comment4.target=void\ setnombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getnombre()
+comment6.params=primero
+comment6.target=void\ setprimero(boolean)
+comment7.params=
+comment7.target=boolean\ getprimero()
+comment8.params=segundo
+comment8.target=void\ setsegundo(boolean)
+comment9.params=
+comment9.target=boolean\ getsegundo()
+numComments=13

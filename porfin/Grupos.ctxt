@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Grupos
+comment1.params=max
+comment1.target=Grupos(int)
+comment2.params=
+comment2.target=boolean\ lleno()
+comment3.params=
+comment3.target=boolean\ vacio()
+comment4.params=C
+comment4.target=boolean\ Agregar(Alumno)
+comment5.params=posicion
+comment5.target=java.lang.String\ Eliminar(int)
+comment6.params=pos
+comment6.target=Alumno\ RegresarPosicion(int)
+comment7.params=
+comment7.target=int\ CuantosHay()
+numComments=8

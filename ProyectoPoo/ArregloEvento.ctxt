@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ArregloEvento
+comment1.params=max
+comment1.target=ArregloEvento(int)
+comment2.params=
+comment2.target=boolean\ lleno()
+comment3.params=
+comment3.target=boolean\ vacio()
+comment4.params=I
+comment4.target=boolean\ Agregar(Evento)
+comment5.params=
+comment5.target=int\ CuantosHay()
+comment6.params=posicion
+comment6.target=void\ Eliminar(int)
+comment7.params=pos
+comment7.target=Evento\ RegresarPosicion(int)
+numComments=8
