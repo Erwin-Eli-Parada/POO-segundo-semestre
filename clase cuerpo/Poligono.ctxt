@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Poligono
+comment1.params=x\ y\ tipo
+comment1.target=Poligono(double,\ double,\ java.lang.String)
+comment10.params=punto
+comment10.target=void\ setpunto(Punto)
+comment11.params=
+comment11.target=Punto\ getpunto()
+comment2.params=x
+comment2.target=void\ setEjeX(double)
+comment3.params=
+comment3.target=double\ getEjeX()
+comment4.params=y
+comment4.target=void\ setEjeY(double)
+comment5.params=
+comment5.target=double\ getEjeY()
+comment6.params=
+comment6.target=java.lang.String\ centro()
+comment7.params=tipo
+comment7.target=void\ setnombre(java.lang.String)
+comment8.params=
+comment8.target=double\ calcArea()
+comment9.params=
+comment9.target=double\ calcPerimetro()
+numComments=12

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=max
+comment0.target=ArregloPolig(int)
+comment1.params=
+comment1.target=boolean\ lleno()
+comment2.params=
+comment2.target=boolean\ vacio()
+comment3.params=I
+comment3.target=boolean\ Agregar(Poligono)
+comment4.params=
+comment4.target=int\ CuantosHay()
+comment5.params=posicion
+comment5.target=java.lang.String\ Eliminar(int)
+comment6.params=pos
+comment6.target=Poligono\ RegresarPosicion(int)
+comment7.params=
+comment7.target=int\ cuantosCuadrados()
+comment8.params=
+comment8.target=int\ cuantostriangulos()
+comment9.params=
+comment9.target=int\ cuantosPentagonos()
+numComments=10
