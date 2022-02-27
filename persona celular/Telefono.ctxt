@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Telefono
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Telefono\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Telefono()
+comment2.params=estado
+comment2.target=void\ setestado(char)
+comment3.params=
+comment3.target=char\ getestado()
+comment4.params=llamada
+comment4.target=void\ setllamada(boolean)
+comment5.params=
+comment5.target=boolean\ getllamada()
+numComments=6

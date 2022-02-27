@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=novasos
+comment0.target=Refresco(int)
+comment1.params=novasos
+comment1.target=void\ setnovasos(int)
+comment2.params=
+comment2.target=int\ getnovasos()
+numComments=3
